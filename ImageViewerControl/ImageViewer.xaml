@@ -1,0 +1,41 @@
+﻿<UserControl x:Class="ImageViewerControl.ImageViewer"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    xmlns:local="clr-namespace:ImageViewerControl"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    d:DesignHeight="480" d:DesignWidth="480" x:Name="myZoomingImage"
+              >
+    <UserControl.Resources>
+        <local:MyImageConverter x:Key="imgConverter"/>
+    </UserControl.Resources>
+    <Grid x:Name="LayoutRoot" Background="{StaticResource PhoneChromeBrush}">
+        <!--<Image Source="{Binding SourceUrl,ElementName=myZoomingImage}"></Image>-->
+
+        <ViewportControl x:Name="viewport" 
+                         ManipulationStarted="OnManipulationStarted"
+                         ManipulationDelta="OnManipulationDelta"  
+                         ManipulationCompleted="OnManipulationCompleted"
+                         ViewportChanged="viewport_ViewportChanged"
+                         DoubleTap="OnDoubleTap"
+                         >
+            <Canvas x:Name="canvas"  HorizontalAlignment="Center" VerticalAlignment="Center" SizeChanged="canvas_SizeChanged" >
+                <Image  Source="{Binding SourceUrl,Converter= {StaticResource imgConverter}}"  x:Name="imageDocument" RenderTransformOrigin="0,0" CacheMode="BitmapCache"  Stretch="Fill" ImageOpened="imageDocument_ImageOpened_1" Loaded="imageDocument_Loaded" LayoutUpdated="imageDocument_LayoutUpdated" >
+                    <Image.RenderTransform>
+                        <ScaleTransform x:Name="xform"/>
+                    </Image.RenderTransform>
+                    <!--<Image.Source>
+                    <BitmapImage UriSource="{Binding SourceUrl}" CreateOptions="BackgroundCreation"/>
+                    
+                </Image.Source>-->
+                </Image>
+
+            </Canvas>
+        </ViewportControl>
+        <Image x:Name="temporaryImage" Source="/Icons/magazine.png" Height="150" Width="150"/>
+    </Grid>
+</UserControl>

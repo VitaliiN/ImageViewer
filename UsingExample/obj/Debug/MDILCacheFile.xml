@@ -1,0 +1,14 @@
+﻿<xapCache source="D:\Apps\ImageViewerControl\UsingExample\Bin\Debug\UsingExample_Debug_AnyCPU.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="18.02.2014 12:17:56">
+  <file source="D:\Apps\ImageViewerControl\UsingExample\obj\Debug\UsingExample.dll" archivePath="UsingExample.dll" lastWriteTime="18.02.2014 12:17:55" />
+  <file source="D:\Apps\ImageViewerControl\UsingExample\acura.jpg" archivePath="acura.jpg" lastWriteTime="21.01.2014 13:02:38" />
+  <file source="D:\Apps\ImageViewerControl\UsingExample\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="18.02.2014 12:01:59" />
+  <file source="D:\Apps\ImageViewerControl\UsingExample\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="18.02.2014 12:01:59" />
+  <file source="D:\Apps\ImageViewerControl\UsingExample\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="18.02.2014 12:01:59" />
+  <file source="D:\Apps\ImageViewerControl\UsingExample\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="18.02.2014 12:01:59" />
+  <file source="D:\Apps\ImageViewerControl\UsingExample\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="18.02.2014 12:01:59" />
+  <file source="D:\Apps\ImageViewerControl\UsingExample\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="18.02.2014 12:09:01" />
+  <file source="D:\Apps\ImageViewerControl\UsingExample\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="18.02.2014 12:01:59" />
+  <file source="D:\Apps\ImageViewerControl\UsingExample\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="18.02.2014 12:01:59" />
+  <file source="D:\Apps\ImageViewerControl\ImageViewerControl\Bin\Debug\ImageViewerControl.dll" archivePath="ImageViewerControl.dll" lastWriteTime="18.02.2014 12:17:41" />
+  <file source="D:\Apps\ImageViewerControl\UsingExample\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="18.02.2014 12:02:01" />
+</xapCache>

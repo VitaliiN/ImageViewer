@@ -1,0 +1,6 @@
+D:\Apps\ImageViewerControl\ImageViewerControl\obj\Debug\ImageViewer.g.cs
+D:\Apps\ImageViewerControl\ImageViewerControl\obj\Debug\ImageViewerControl.g.resources
+D:\Apps\ImageViewerControl\ImageViewerControl\Bin\Debug\ImageViewerControl.dll
+D:\Apps\ImageViewerControl\ImageViewerControl\Bin\Debug\ImageViewerControl.pdb
+D:\Apps\ImageViewerControl\ImageViewerControl\obj\Debug\ImageViewerControl.dll
+D:\Apps\ImageViewerControl\ImageViewerControl\obj\Debug\ImageViewerControl.pdb
