@@ -19,3 +19,6 @@ D:\Apps\ImageViewerControl\UsingExample\obj\Debug\XapCacheFile.xml
 D:\Apps\ImageViewerControl\UsingExample\Bin\Debug\ImageViewerControl.dll
 D:\Apps\ImageViewerControl\UsingExample\Bin\Debug\ImageViewerControl.pdb
 D:\Apps\ImageViewerControl\UsingExample\obj\Debug\UsingExample.csprojResolveAssemblyReference.cache
+D:\Apps\ImageViewerControl\UsingExample\Bin\Debug\WriteableBitmapExWinPhone.dll
+D:\Apps\ImageViewerControl\UsingExample\Bin\Debug\WriteableBitmapExWinPhone.pdb
+D:\Apps\ImageViewerControl\UsingExample\Bin\Debug\WriteableBitmapExWinPhone.xml

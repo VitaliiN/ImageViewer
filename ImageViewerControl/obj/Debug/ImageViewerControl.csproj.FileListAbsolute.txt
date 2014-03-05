@@ -4,3 +4,10 @@ D:\Apps\ImageViewerControl\ImageViewerControl\Bin\Debug\ImageViewerControl.dll
 D:\Apps\ImageViewerControl\ImageViewerControl\Bin\Debug\ImageViewerControl.pdb
 D:\Apps\ImageViewerControl\ImageViewerControl\obj\Debug\ImageViewerControl.dll
 D:\Apps\ImageViewerControl\ImageViewerControl\obj\Debug\ImageViewerControl.pdb
+D:\Apps\ImageViewerControl\ImageViewerControl\obj\Debug\ImageViewerControl.csprojResolveAssemblyReference.cache
+D:\Apps\ImageViewerControl\ImageViewerControl\Bin\Debug\WriteableBitmapExWinPhone.dll
+D:\Apps\ImageViewerControl\ImageViewerControl\Bin\Debug\WriteableBitmapExWinPhoneXnaDependant.dll
+D:\Apps\ImageViewerControl\ImageViewerControl\Bin\Debug\WriteableBitmapExWinPhone.pdb
+D:\Apps\ImageViewerControl\ImageViewerControl\Bin\Debug\WriteableBitmapExWinPhone.xml
+D:\Apps\ImageViewerControl\ImageViewerControl\Bin\Debug\WriteableBitmapExWinPhoneXnaDependant.pdb
+D:\Apps\ImageViewerControl\ImageViewerControl\Bin\Debug\WriteableBitmapExWinPhoneXnaDependant.xml

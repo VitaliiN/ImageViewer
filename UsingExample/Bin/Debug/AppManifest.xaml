@@ -2,5 +2,6 @@
   <Deployment.Parts>
     <AssemblyPart x:Name="UsingExample" Source="UsingExample.dll" />
     <AssemblyPart x:Name="ImageViewerControl" Source="ImageViewerControl.dll" />
+    <AssemblyPart x:Name="WriteableBitmapExWinPhone" Source="WriteableBitmapExWinPhone.dll" />
   </Deployment.Parts>
 </Deployment>
